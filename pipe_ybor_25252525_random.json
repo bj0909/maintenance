@@ -1,0 +1,1864 @@
+[
+    {
+        "pipe_id": "P-10",
+        "diameter": 10,
+        "pipe_length": 64.31,
+        "system_demand_shortfall": 0,
+        "water_volume": 3123.98,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-25",
+        "diameter": 10,
+        "pipe_length": 192.94,
+        "system_demand_shortfall": 0,
+        "water_volume": 9371.95,
+        "co_lo_road": [
+            {
+                "id": "group080",
+                "total_colo_length": 465.41,
+                "parallel_length": 453.41,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-26",
+        "diameter": 10,
+        "pipe_length": 198.73,
+        "system_demand_shortfall": 0,
+        "water_volume": 9653.25,
+        "co_lo_road": [
+            {
+                "id": "group049",
+                "total_colo_length": 460.37,
+                "parallel_length": 448.37,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 35,
+        "partition": "nw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-97",
+        "diameter": 20,
+        "pipe_length": 183.18,
+        "system_demand_shortfall": 0,
+        "water_volume": 8898.17,
+        "co_lo_road": [
+            {
+                "id": "group147",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 5,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-98",
+        "diameter": 20,
+        "pipe_length": 186.54,
+        "system_demand_shortfall": 0,
+        "water_volume": 9061.03,
+        "co_lo_road": [
+            {
+                "id": "group143",
+                "total_colo_length": 122.27,
+                "parallel_length": 122.27,
+                "intersection_length": 0
+            },
+            {
+                "id": "group146",
+                "total_colo_length": 170.27,
+                "parallel_length": 158.27,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 5,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-101",
+        "diameter": 12,
+        "pipe_length": 0.61,
+        "system_demand_shortfall": 0,
+        "water_volume": 29.61,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-102",
+        "diameter": 12,
+        "pipe_length": 0.91,
+        "system_demand_shortfall": 0,
+        "water_volume": 44.42,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-114",
+        "diameter": 12,
+        "pipe_length": 0.3,
+        "system_demand_shortfall": 0,
+        "water_volume": 14.81,
+        "co_lo_road": [
+            {
+                "id": "group004",
+                "total_colo_length": 0.91,
+                "parallel_length": 0.91,
+                "intersection_length": 0
+            },
+            {
+                "id": "group005",
+                "total_colo_length": 0.91,
+                "parallel_length": 0.91,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 0,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-123",
+        "diameter": 24,
+        "pipe_length": 170.69,
+        "system_demand_shortfall": 0,
+        "water_volume": 8291.14,
+        "co_lo_road": [
+            {
+                "id": "group152",
+                "total_colo_length": 192.83,
+                "parallel_length": 180.83,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 25,
+        "partition": "se",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-124",
+        "diameter": 24,
+        "pipe_length": 125.88,
+        "system_demand_shortfall": 0,
+        "water_volume": 6114.71,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 5,
+        "partition": "se",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-143",
+        "diameter": 8,
+        "pipe_length": 117.65,
+        "system_demand_shortfall": 0,
+        "water_volume": 5714.96,
+        "co_lo_road": [
+            {
+                "id": "group004",
+                "total_colo_length": 386,
+                "parallel_length": 374,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 35,
+        "partition": "nw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-144",
+        "diameter": 8,
+        "pipe_length": 278.28,
+        "system_demand_shortfall": 0,
+        "water_volume": 13517.51,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 35,
+        "partition": "nw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-179",
+        "diameter": 12,
+        "pipe_length": 183.49,
+        "system_demand_shortfall": 0,
+        "water_volume": 8912.97,
+        "co_lo_road": [
+            {
+                "id": "group093",
+                "total_colo_length": 400,
+                "parallel_length": 388,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 25,
+        "partition": "se",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-203",
+        "diameter": 10,
+        "pipe_length": 15.24,
+        "system_demand_shortfall": 0,
+        "water_volume": 740.28,
+        "co_lo_road": [
+            {
+                "id": "group111",
+                "total_colo_length": 50,
+                "parallel_length": 50,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 5,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-204",
+        "diameter": 10,
+        "pipe_length": 15.54,
+        "system_demand_shortfall": 0,
+        "water_volume": 755.09,
+        "co_lo_road": [
+            {
+                "id": "group111",
+                "total_colo_length": 51,
+                "parallel_length": 39,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-263",
+        "diameter": 10,
+        "pipe_length": 122.22,
+        "system_demand_shortfall": 0,
+        "water_volume": 5937.05,
+        "co_lo_road": [
+            {
+                "id": "group091",
+                "total_colo_length": 404,
+                "parallel_length": 392,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 35,
+        "partition": "se",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-264",
+        "diameter": 10,
+        "pipe_length": 121.92,
+        "system_demand_shortfall": 0,
+        "water_volume": 5922.24,
+        "co_lo_road": [
+            {
+                "id": "group091",
+                "total_colo_length": 404,
+                "parallel_length": 392,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 15,
+        "partition": "se",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-275",
+        "diameter": 10,
+        "pipe_length": 230.43,
+        "system_demand_shortfall": 0,
+        "water_volume": 11193.03,
+        "co_lo_road": [
+            {
+                "id": "group150",
+                "total_colo_length": 87.7,
+                "parallel_length": 75.7,
+                "intersection_length": 12
+            },
+            {
+                "id": "group161",
+                "total_colo_length": 476.03,
+                "parallel_length": 464.03,
+                "intersection_length": 12
+            },
+            {
+                "id": "group163",
+                "total_colo_length": 120,
+                "parallel_length": 108,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 3,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-282",
+        "diameter": 30,
+        "pipe_length": 126.19,
+        "system_demand_shortfall": 0,
+        "water_volume": 6129.52,
+        "co_lo_road": [
+            {
+                "id": "group008",
+                "total_colo_length": 97.35,
+                "parallel_length": 85.35,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 25,
+        "partition": "nw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-389",
+        "diameter": 16,
+        "pipe_length": 247.5,
+        "system_demand_shortfall": 0,
+        "water_volume": 12022.15,
+        "co_lo_road": [
+            {
+                "id": "group019",
+                "total_colo_length": 410.17,
+                "parallel_length": 386.17,
+                "intersection_length": 24
+            },
+            {
+                "id": "group034",
+                "total_colo_length": 413.61,
+                "parallel_length": 389.61,
+                "intersection_length": 24
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 25,
+        "partition": "ne",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-390",
+        "diameter": 16,
+        "pipe_length": 247.5,
+        "system_demand_shortfall": 0,
+        "water_volume": 12022.15,
+        "co_lo_road": [
+            {
+                "id": "group045",
+                "total_colo_length": 409.51,
+                "parallel_length": 385.51,
+                "intersection_length": 24
+            },
+            {
+                "id": "group063",
+                "total_colo_length": 211.56,
+                "parallel_length": 187.56,
+                "intersection_length": 24
+            },
+            {
+                "id": "group076",
+                "total_colo_length": 201.56,
+                "parallel_length": 177.56,
+                "intersection_length": 24
+            }
+        ],
+        "num_colo_roads": 3,
+        "current_state": 35,
+        "partition": "ne",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-399",
+        "diameter": 26,
+        "pipe_length": 417.58,
+        "system_demand_shortfall": 0,
+        "water_volume": 20283.67,
+        "co_lo_road": [
+            {
+                "id": "group009",
+                "total_colo_length": 409.08,
+                "parallel_length": 385.08,
+                "intersection_length": 24
+            },
+            {
+                "id": "group028",
+                "total_colo_length": 416.88,
+                "parallel_length": 392.88,
+                "intersection_length": 24
+            },
+            {
+                "id": "group037",
+                "total_colo_length": 231.55,
+                "parallel_length": 219.55,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 3,
+        "current_state": 25,
+        "partition": "nw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-400",
+        "diameter": 26,
+        "pipe_length": 356.31,
+        "system_demand_shortfall": 0,
+        "water_volume": 17307.75,
+        "co_lo_road": [
+            {
+                "id": "group053",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            },
+            {
+                "id": "group067",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            },
+            {
+                "id": "group084",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            },
+            {
+                "id": "group097",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            },
+            {
+                "id": "group105",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            },
+            {
+                "id": "group116",
+                "total_colo_length": 24,
+                "parallel_length": 24,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 6,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-431",
+        "diameter": 17,
+        "pipe_length": 100.28,
+        "system_demand_shortfall": 0,
+        "water_volume": 4871.04,
+        "co_lo_road": [
+            {
+                "id": "group066",
+                "total_colo_length": 12,
+                "parallel_length": 6,
+                "intersection_length": 6
+            },
+            {
+                "id": "group083",
+                "total_colo_length": 187.82,
+                "parallel_length": 163.82,
+                "intersection_length": 24
+            },
+            {
+                "id": "group086",
+                "total_colo_length": 83.2,
+                "parallel_length": 59.2,
+                "intersection_length": 24
+            },
+            {
+                "id": "group095",
+                "total_colo_length": 124.48,
+                "parallel_length": 112.48,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 4,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-432",
+        "diameter": 17,
+        "pipe_length": 93.27,
+        "system_demand_shortfall": 0,
+        "water_volume": 4530.51,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-441",
+        "diameter": 12,
+        "pipe_length": 137.16,
+        "system_demand_shortfall": 0,
+        "water_volume": 6662.52,
+        "co_lo_road": [
+            {
+                "id": "group115",
+                "total_colo_length": 12,
+                "parallel_length": 0,
+                "intersection_length": 12
+            },
+            {
+                "id": "group127",
+                "total_colo_length": 246.97,
+                "parallel_length": 234.97,
+                "intersection_length": 12
+            },
+            {
+                "id": "group128",
+                "total_colo_length": 12,
+                "parallel_length": 0,
+                "intersection_length": 12
+            },
+            {
+                "id": "group129",
+                "total_colo_length": 248.56,
+                "parallel_length": 236.56,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 4,
+        "current_state": 5,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-442",
+        "diameter": 12,
+        "pipe_length": 114.3,
+        "system_demand_shortfall": 0,
+        "water_volume": 5552.1,
+        "co_lo_road": [
+            {
+                "id": "group129",
+                "total_colo_length": 375,
+                "parallel_length": 375,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-491",
+        "diameter": 12,
+        "pipe_length": 211.84,
+        "system_demand_shortfall": 0,
+        "water_volume": 10289.89,
+        "co_lo_road": [
+            {
+                "id": "group144",
+                "total_colo_length": 97.01,
+                "parallel_length": 97.01,
+                "intersection_length": 0
+            },
+            {
+                "id": "group153",
+                "total_colo_length": 85.68,
+                "parallel_length": 73.68,
+                "intersection_length": 12
+            },
+            {
+                "id": "group154",
+                "total_colo_length": 244.46,
+                "parallel_length": 232.46,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 3,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-543",
+        "diameter": 20,
+        "pipe_length": 51.82,
+        "system_demand_shortfall": 0,
+        "water_volume": 2516.95,
+        "co_lo_road": [
+            {
+                "id": "group048",
+                "total_colo_length": 170,
+                "parallel_length": 170,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 35,
+        "partition": "nw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-544",
+        "diameter": 20,
+        "pipe_length": 51.82,
+        "system_demand_shortfall": 0,
+        "water_volume": 2516.95,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 15,
+        "partition": "nw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-563",
+        "diameter": 20,
+        "pipe_length": 61.57,
+        "system_demand_shortfall": 0,
+        "water_volume": 2990.73,
+        "co_lo_road": [
+            {
+                "id": "group001",
+                "total_colo_length": 94.1,
+                "parallel_length": 82.1,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 25,
+        "partition": "nw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-627",
+        "diameter": 20,
+        "pipe_length": 41.45,
+        "system_demand_shortfall": 0,
+        "water_volume": 2013.56,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-628",
+        "diameter": 20,
+        "pipe_length": 41.45,
+        "system_demand_shortfall": 0,
+        "water_volume": 2013.56,
+        "co_lo_road": [
+            {
+                "id": "group104",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            },
+            {
+                "id": "group114",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-633",
+        "diameter": 16,
+        "pipe_length": 128.93,
+        "system_demand_shortfall": 0,
+        "water_volume": 6262.77,
+        "co_lo_road": [
+            {
+                "id": "group079",
+                "total_colo_length": 20,
+                "parallel_length": 20,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 5,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-634",
+        "diameter": 16,
+        "pipe_length": 111.25,
+        "system_demand_shortfall": 0,
+        "water_volume": 5404.04,
+        "co_lo_road": [
+            {
+                "id": "group079",
+                "total_colo_length": 182,
+                "parallel_length": 182,
+                "intersection_length": 0
+            },
+            {
+                "id": "group110",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-637",
+        "diameter": 17,
+        "pipe_length": 12.5,
+        "system_demand_shortfall": 0,
+        "water_volume": 607.03,
+        "co_lo_road": [
+            {
+                "id": "group048",
+                "total_colo_length": 41,
+                "parallel_length": 29,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-638",
+        "diameter": 17,
+        "pipe_length": 12.5,
+        "system_demand_shortfall": 0,
+        "water_volume": 607.03,
+        "co_lo_road": [
+            {
+                "id": "group048",
+                "total_colo_length": 41,
+                "parallel_length": 41,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 15,
+        "partition": "nw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-662",
+        "diameter": 16,
+        "pipe_length": 125.58,
+        "system_demand_shortfall": 0,
+        "water_volume": 6099.91,
+        "co_lo_road": [
+            {
+                "id": "group018",
+                "total_colo_length": 412,
+                "parallel_length": 400,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 25,
+        "partition": "ne",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-721",
+        "diameter": 17,
+        "pipe_length": 107.9,
+        "system_demand_shortfall": 0,
+        "water_volume": 5241.18,
+        "co_lo_road": [
+            {
+                "id": "group120",
+                "total_colo_length": 82.3,
+                "parallel_length": 82.3,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 5,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-729",
+        "diameter": 21,
+        "pipe_length": 183.79,
+        "system_demand_shortfall": 0,
+        "water_volume": 8927.78,
+        "co_lo_road": [
+            {
+                "id": "group022",
+                "total_colo_length": 595.72,
+                "parallel_length": 583.72,
+                "intersection_length": 12
+            },
+            {
+                "id": "group048",
+                "total_colo_length": 19.28,
+                "parallel_length": 7.28,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 15,
+        "partition": "nw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-730",
+        "diameter": 21,
+        "pipe_length": 183.79,
+        "system_demand_shortfall": 0,
+        "water_volume": 8927.78,
+        "co_lo_road": [
+            {
+                "id": "group003",
+                "total_colo_length": 414.64,
+                "parallel_length": 390.64,
+                "intersection_length": 24
+            },
+            {
+                "id": "group022",
+                "total_colo_length": 188.36,
+                "parallel_length": 176.36,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 5,
+        "partition": "nw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-879",
+        "diameter": 9,
+        "pipe_length": 122.83,
+        "system_demand_shortfall": 0,
+        "water_volume": 5966.66,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-880",
+        "diameter": 9,
+        "pipe_length": 123.44,
+        "system_demand_shortfall": 0,
+        "water_volume": 5996.27,
+        "co_lo_road": [
+            {
+                "id": "group148",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 5,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-905",
+        "diameter": 11,
+        "pipe_length": 76.2,
+        "system_demand_shortfall": 0,
+        "water_volume": 3701.4,
+        "co_lo_road": [
+            {
+                "id": "group079",
+                "total_colo_length": 250,
+                "parallel_length": 238,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-906",
+        "diameter": 11,
+        "pipe_length": 75.59,
+        "system_demand_shortfall": 0,
+        "water_volume": 3671.79,
+        "co_lo_road": [
+            {
+                "id": "group079",
+                "total_colo_length": 248,
+                "parallel_length": 236,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-927",
+        "diameter": 11,
+        "pipe_length": 80.77,
+        "system_demand_shortfall": 0,
+        "water_volume": 3923.48,
+        "co_lo_road": [
+            {
+                "id": "group094",
+                "total_colo_length": 82.65,
+                "parallel_length": 70.65,
+                "intersection_length": 12
+            },
+            {
+                "id": "group101",
+                "total_colo_length": 184.1,
+                "parallel_length": 172.1,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-928",
+        "diameter": 11,
+        "pipe_length": 93.27,
+        "system_demand_shortfall": 0,
+        "water_volume": 4530.51,
+        "co_lo_road": [
+            {
+                "id": "group081",
+                "total_colo_length": 190.41,
+                "parallel_length": 166.41,
+                "intersection_length": 24
+            },
+            {
+                "id": "group082",
+                "total_colo_length": 129.39,
+                "parallel_length": 105.39,
+                "intersection_length": 24
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1031",
+        "diameter": 30,
+        "pipe_length": 24.99,
+        "system_demand_shortfall": 0,
+        "water_volume": 1214.06,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1032",
+        "diameter": 30,
+        "pipe_length": 24.99,
+        "system_demand_shortfall": 0,
+        "water_volume": 1214.06,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 5,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1053",
+        "diameter": 16,
+        "pipe_length": 43.89,
+        "system_demand_shortfall": 0,
+        "water_volume": 2132.01,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1054",
+        "diameter": 16,
+        "pipe_length": 45.42,
+        "system_demand_shortfall": 0,
+        "water_volume": 2206.03,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1089",
+        "diameter": 12,
+        "pipe_length": 169.16,
+        "system_demand_shortfall": 0,
+        "water_volume": 8217.11,
+        "co_lo_road": [
+            {
+                "id": "group167",
+                "total_colo_length": 382,
+                "parallel_length": 382,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 5,
+        "partition": "se",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-1093",
+        "diameter": 8,
+        "pipe_length": 61.26,
+        "system_demand_shortfall": 0,
+        "water_volume": 2975.93,
+        "co_lo_road": [
+            {
+                "id": "group150",
+                "total_colo_length": 175.4,
+                "parallel_length": 163.4,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1094",
+        "diameter": 8,
+        "pipe_length": 61.26,
+        "system_demand_shortfall": 0,
+        "water_volume": 2975.93,
+        "co_lo_road": [
+            {
+                "id": "group132",
+                "total_colo_length": 201,
+                "parallel_length": 189,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 5,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1161",
+        "diameter": 24,
+        "pipe_length": 179.53,
+        "system_demand_shortfall": 0,
+        "water_volume": 8720.5,
+        "co_lo_road": [
+            {
+                "id": "group138",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-1162",
+        "diameter": 24,
+        "pipe_length": 202.39,
+        "system_demand_shortfall": 0,
+        "water_volume": 9830.92,
+        "co_lo_road": [
+            {
+                "id": "group125",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            },
+            {
+                "id": "group126",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-1222",
+        "diameter": 12,
+        "pipe_length": 52.12,
+        "system_demand_shortfall": 0,
+        "water_volume": 2531.76,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1295",
+        "diameter": 16,
+        "pipe_length": 109.12,
+        "system_demand_shortfall": 0,
+        "water_volume": 5300.41,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 15,
+        "partition": "se",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1296",
+        "diameter": 16,
+        "pipe_length": 110.03,
+        "system_demand_shortfall": 0,
+        "water_volume": 5344.82,
+        "co_lo_road": [
+            {
+                "id": "group092",
+                "total_colo_length": 361,
+                "parallel_length": 349,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 25,
+        "partition": "se",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1311",
+        "diameter": 20,
+        "pipe_length": 12.5,
+        "system_demand_shortfall": 0,
+        "water_volume": 607.03,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1312",
+        "diameter": 20,
+        "pipe_length": 12.5,
+        "system_demand_shortfall": 0,
+        "water_volume": 607.03,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 5,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1336",
+        "diameter": 24,
+        "pipe_length": 116.43,
+        "system_demand_shortfall": 0,
+        "water_volume": 5655.74,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 5,
+        "partition": "se",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1338",
+        "diameter": 12,
+        "pipe_length": 191.41,
+        "system_demand_shortfall": 0,
+        "water_volume": 9297.92,
+        "co_lo_road": [
+            {
+                "id": "group137",
+                "total_colo_length": 383.28,
+                "parallel_length": 383.28,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 25,
+        "partition": "se",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-1357",
+        "diameter": 24,
+        "pipe_length": 111.56,
+        "system_demand_shortfall": 0,
+        "water_volume": 5418.85,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 5,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1358",
+        "diameter": 24,
+        "pipe_length": 113.08,
+        "system_demand_shortfall": 0,
+        "water_volume": 5492.88,
+        "co_lo_road": [
+            {
+                "id": "group128",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-1393",
+        "diameter": 11,
+        "pipe_length": 17.68,
+        "system_demand_shortfall": 0,
+        "water_volume": 858.72,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1394",
+        "diameter": 11,
+        "pipe_length": 19.81,
+        "system_demand_shortfall": 0,
+        "water_volume": 962.36,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1423",
+        "diameter": 10,
+        "pipe_length": 110.95,
+        "system_demand_shortfall": 0,
+        "water_volume": 5389.24,
+        "co_lo_road": [
+            {
+                "id": "group088",
+                "total_colo_length": 364,
+                "parallel_length": 364,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 35,
+        "partition": "se",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-1424",
+        "diameter": 10,
+        "pipe_length": 111.56,
+        "system_demand_shortfall": 0,
+        "water_volume": 5418.85,
+        "co_lo_road": [
+            {
+                "id": "group084",
+                "total_colo_length": 247.77,
+                "parallel_length": 235.77,
+                "intersection_length": 12
+            },
+            {
+                "id": "group088",
+                "total_colo_length": 50,
+                "parallel_length": 38,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1489",
+        "diameter": 9,
+        "pipe_length": 75.29,
+        "system_demand_shortfall": 0,
+        "water_volume": 3656.98,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 35,
+        "partition": "se",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1490",
+        "diameter": 9,
+        "pipe_length": 75.9,
+        "system_demand_shortfall": 0,
+        "water_volume": 3686.59,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 5,
+        "partition": "se",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1500",
+        "diameter": 8,
+        "pipe_length": 32.31,
+        "system_demand_shortfall": 0,
+        "water_volume": 1569.39,
+        "co_lo_road": [
+            {
+                "id": "group002",
+                "total_colo_length": 106,
+                "parallel_length": 94,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 35,
+        "partition": "nw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1567",
+        "diameter": 12,
+        "pipe_length": 55.47,
+        "system_demand_shortfall": 0,
+        "water_volume": 2694.62,
+        "co_lo_road": [
+            {
+                "id": "group133",
+                "total_colo_length": 182,
+                "parallel_length": 170,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 35,
+        "partition": "se",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1568",
+        "diameter": 12,
+        "pipe_length": 55.47,
+        "system_demand_shortfall": 0,
+        "water_volume": 2694.62,
+        "co_lo_road": [
+            {
+                "id": "group133",
+                "total_colo_length": 182,
+                "parallel_length": 182,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 35,
+        "partition": "se",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-1569",
+        "diameter": 10,
+        "pipe_length": 75.29,
+        "system_demand_shortfall": 0,
+        "water_volume": 3656.98,
+        "co_lo_road": [
+            {
+                "id": "group084",
+                "total_colo_length": 247,
+                "parallel_length": 235,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1570",
+        "diameter": 10,
+        "pipe_length": 74.98,
+        "system_demand_shortfall": 0,
+        "water_volume": 3642.18,
+        "co_lo_road": [
+            {
+                "id": "group084",
+                "total_colo_length": 246,
+                "parallel_length": 246,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-1587",
+        "diameter": 14,
+        "pipe_length": 86.56,
+        "system_demand_shortfall": 0,
+        "water_volume": 4204.79,
+        "co_lo_road": [
+            {
+                "id": "group113",
+                "total_colo_length": 12,
+                "parallel_length": 0,
+                "intersection_length": 12
+            },
+            {
+                "id": "group124",
+                "total_colo_length": 137.68,
+                "parallel_length": 125.68,
+                "intersection_length": 12
+            },
+            {
+                "id": "group125",
+                "total_colo_length": 12,
+                "parallel_length": 0,
+                "intersection_length": 12
+            },
+            {
+                "id": "group126",
+                "total_colo_length": 12,
+                "parallel_length": 0,
+                "intersection_length": 12
+            },
+            {
+                "id": "group127",
+                "total_colo_length": 246.97,
+                "parallel_length": 234.97,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 5,
+        "current_state": 5,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1588",
+        "diameter": 14,
+        "pipe_length": 122.53,
+        "system_demand_shortfall": 0,
+        "water_volume": 5951.85,
+        "co_lo_road": [
+            {
+                "id": "group111",
+                "total_colo_length": 402,
+                "parallel_length": 390,
+                "intersection_length": 12
+            },
+            {
+                "id": "group121",
+                "total_colo_length": 20,
+                "parallel_length": 8,
+                "intersection_length": 12
+            },
+            {
+                "id": "group122",
+                "total_colo_length": 77.97,
+                "parallel_length": 77.97,
+                "intersection_length": 0
+            },
+            {
+                "id": "group124",
+                "total_colo_length": 137.68,
+                "parallel_length": 137.68,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 4,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1645",
+        "diameter": 12,
+        "pipe_length": 227.38,
+        "system_demand_shortfall": 0,
+        "water_volume": 11044.98,
+        "co_lo_road": [
+            {
+                "id": "group133",
+                "total_colo_length": 692.6,
+                "parallel_length": 680.6,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 15,
+        "partition": "se",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1646",
+        "diameter": 12,
+        "pipe_length": 228.3,
+        "system_demand_shortfall": 0,
+        "water_volume": 11089.4,
+        "co_lo_road": [
+            {
+                "id": "group135",
+                "total_colo_length": 673.49,
+                "parallel_length": 649.49,
+                "intersection_length": 24
+            },
+            {
+                "id": "group137",
+                "total_colo_length": 161.64,
+                "parallel_length": 149.64,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 15,
+        "partition": "se",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1685",
+        "diameter": 24,
+        "pipe_length": 29.26,
+        "system_demand_shortfall": 0,
+        "water_volume": 1421.34,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1686",
+        "diameter": 24,
+        "pipe_length": 29.26,
+        "system_demand_shortfall": 0,
+        "water_volume": 1421.34,
+        "co_lo_road": [
+            {
+                "id": "group130",
+                "total_colo_length": 12,
+                "parallel_length": 12,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 15,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-1777",
+        "diameter": 12,
+        "pipe_length": 25.6,
+        "system_demand_shortfall": 0,
+        "water_volume": 1243.67,
+        "co_lo_road": [
+            {
+                "id": "group133",
+                "total_colo_length": 84,
+                "parallel_length": 84,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 15,
+        "partition": "se",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-1778",
+        "diameter": 12,
+        "pipe_length": 25.6,
+        "system_demand_shortfall": 0,
+        "water_volume": 1243.67,
+        "co_lo_road": [
+            {
+                "id": "group133",
+                "total_colo_length": 84,
+                "parallel_length": 84,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 15,
+        "partition": "se",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-1819",
+        "diameter": 12,
+        "pipe_length": 12.19,
+        "system_demand_shortfall": 0,
+        "water_volume": 592.22,
+        "co_lo_road": [
+            {
+                "id": "group110",
+                "total_colo_length": 40,
+                "parallel_length": 40,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-1820",
+        "diameter": 12,
+        "pipe_length": 12.5,
+        "system_demand_shortfall": 0,
+        "water_volume": 607.03,
+        "co_lo_road": [
+            {
+                "id": "group110",
+                "total_colo_length": 41,
+                "parallel_length": 29,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1825",
+        "diameter": 12,
+        "pipe_length": 2.13,
+        "system_demand_shortfall": 0,
+        "water_volume": 103.64,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1826",
+        "diameter": 12,
+        "pipe_length": 0.91,
+        "system_demand_shortfall": 0,
+        "water_volume": 44.42,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1831",
+        "diameter": 10,
+        "pipe_length": 124.97,
+        "system_demand_shortfall": 0,
+        "water_volume": 6070.3,
+        "co_lo_road": [
+            {
+                "id": "group089",
+                "total_colo_length": 410,
+                "parallel_length": 398,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 15,
+        "partition": "se",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1832",
+        "diameter": 10,
+        "pipe_length": 124.66,
+        "system_demand_shortfall": 0,
+        "water_volume": 6055.49,
+        "co_lo_road": [
+            {
+                "id": "group088",
+                "total_colo_length": 251.79,
+                "parallel_length": 239.79,
+                "intersection_length": 12
+            },
+            {
+                "id": "group089",
+                "total_colo_length": 162.25,
+                "parallel_length": 150.25,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 5,
+        "partition": "se",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1849",
+        "diameter": 12,
+        "pipe_length": 28.65,
+        "system_demand_shortfall": 0,
+        "water_volume": 1391.73,
+        "co_lo_road": [
+            {
+                "id": "group129",
+                "total_colo_length": 94,
+                "parallel_length": 94,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 25,
+        "partition": "sw",
+        "failure_rate_0": 0.01
+    },
+    {
+        "pipe_id": "P-1850",
+        "diameter": 12,
+        "pipe_length": 28.65,
+        "system_demand_shortfall": 0,
+        "water_volume": 1391.73,
+        "co_lo_road": [
+            {
+                "id": "group130",
+                "total_colo_length": 12,
+                "parallel_length": 0,
+                "intersection_length": 12
+            },
+            {
+                "id": "group131",
+                "total_colo_length": 58.93,
+                "parallel_length": 46.93,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 35,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1889",
+        "diameter": 24,
+        "pipe_length": 186.23,
+        "system_demand_shortfall": 0,
+        "water_volume": 9046.22,
+        "co_lo_road": null,
+        "num_colo_roads": 0,
+        "current_state": 25,
+        "partition": "se",
+        "failure_rate_0": 0.005
+    },
+    {
+        "pipe_id": "P-1890",
+        "diameter": 24,
+        "pipe_length": 274.62,
+        "system_demand_shortfall": 0,
+        "water_volume": 13339.85,
+        "co_lo_road": [
+            {
+                "id": "group134",
+                "total_colo_length": 81.89,
+                "parallel_length": 69.89,
+                "intersection_length": 12
+            },
+            {
+                "id": "group152",
+                "total_colo_length": 192.83,
+                "parallel_length": 192.83,
+                "intersection_length": 0
+            }
+        ],
+        "num_colo_roads": 2,
+        "current_state": 35,
+        "partition": "se",
+        "failure_rate_0": 0.018
+    },
+    {
+        "pipe_id": "P-1975",
+        "diameter": 12,
+        "pipe_length": 61.57,
+        "system_demand_shortfall": 0,
+        "water_volume": 2990.73,
+        "co_lo_road": [
+            {
+                "id": "group078",
+                "total_colo_length": 202,
+                "parallel_length": 190,
+                "intersection_length": 12
+            }
+        ],
+        "num_colo_roads": 1,
+        "current_state": 5,
+        "partition": "sw",
+        "failure_rate_0": 0.018
+    }
+]
